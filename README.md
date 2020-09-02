@@ -1,6 +1,6 @@
 # 🎉 E.P.L Challenge 🎉
 
-![](.gitbook/assets/1.png)
+![E.P.L Challenge &#xD504;&#xB85C;&#xADF8;&#xB7A8; &#xB300;&#xD45C; &#xC774;&#xBBF8;&#xC9C0;](.gitbook/assets/1.png)
 
 ## ◆  E.P.L 이란?
 
