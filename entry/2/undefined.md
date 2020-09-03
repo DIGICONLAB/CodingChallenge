@@ -23,7 +23,7 @@
 {% endtab %}
 
 {% tab title="움직임 블럭 메뉴" %}
-
+![&#xD0A4;&#xB97C; &#xB20C;&#xB800;&#xC744; &#xB54C; &#xBE14;&#xB7ED; &#xC544;&#xB798;&#xC5D0; &#xBC29;&#xD5A5;&#xC5D0; &#xB9DE;&#xB294; &#xC88C;&#xD45C; &#xBE14;&#xB7ED;&#xC744; &#xB123;&#xC5B4; &#xC90D;&#xB2C8;&#xB2E4;](../../.gitbook/assets/5.png)
 {% endtab %}
 {% endtabs %}
 
