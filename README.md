@@ -30,6 +30,8 @@ Education Programming Language의 약자로 블럭을 사용하여 프로그래�
 {% endtab %}
 
 {% tab title="엠블럭" %}
+![](.gitbook/assets/5%20%281%29.jpg)
+
 * **코딩 블럭 살펴보기 :** Brain Out Quiz 만들기에 사용되는 오브젝트와 블럭들을 살펴보자! 
 * **Brain Out Quiz 만들기 - 1** : 고양이의 이름을 맞추려면 어떻게 해야 할까? 
 * **Brain Out Quiz 만들기 - 2** :  축구공을 골대로 이동 시키려면 어떻게 해야 할까? 
@@ -37,6 +39,8 @@ Education Programming Language의 약자로 블럭을 사용하여 프로그래�
 {% endtab %}
 
 {% tab title="스크래치" %}
+![](.gitbook/assets/6%20%281%29.jpg)
+
 * **코딩 블럭 살펴보기  :** Run 게임에 사용되는 스프라이 블럭들을 살펴보자! 
 * **게임화면 만들기 1** : 배경 및 타이틀 스프라이트 블럭을 완성해  보자!  
 * **게임화면 만들기 2** :  주 캐릭터인 코로나 바이러스와 사람 스프라이트 블럭을 완성해 보자! 
