@@ -57,6 +57,10 @@
 
 ## ◇  2단계 : 랜덤 깃발 화면에 나타내기
 
+{% embed url="https://youtu.be/jziSxuwDyx4" %}
+
+
+
   
 
 
