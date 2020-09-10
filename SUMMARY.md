@@ -8,6 +8,4 @@
     * [실습](entry/2/undefined.md)
   * [3차시](entry/3.md)
   * [4차시](entry/4.md)
-* [mBlock](mblock.md)
-* [Scratch](scratch.md)
 
