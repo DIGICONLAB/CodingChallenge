@@ -1,6 +1,6 @@
-# 🎉 E.P.L Challenge 🎉
+# 🥇 내가바로 E.P.L Master 🥇
 
-![](.gitbook/assets/2%20%282%29.png)
+![](.gitbook/assets/_3.png)
 
 ## ◆  E.P.L 이란?
 
