@@ -21,7 +21,7 @@ Education Programming Language의 약자로 블럭을 사용하여 프로그래�
 
 {% tabs %}
 {% tab title="엔트리" %}
-![](.gitbook/assets/4%20%281%29.jpg)
+![](.gitbook/assets/test.gif)
 
 * **1차시: 코딩 블럭 살펴보기  :** 엔트리에 사용되는 ****기본 동작 블럭 살펴보기 
 * **2차시: 내가 바로 드론 마스터! - 1** : 키보드 입력 블럭을 사용하여 드론 오브젝트 이동하기! 
