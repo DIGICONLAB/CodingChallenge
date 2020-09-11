@@ -17,10 +17,10 @@ Education Programming Language의 약자로 블럭을 사용하여 프로그래�
 나의 필요에 맞는 프로그램을 선택하여 학습하고 마지막 challenge 까지 **도전해 보세요!**  
 
 
-## ◆  섹션별 프로그램 
+## ◆  차별 프로그램 
 
 {% tabs %}
-{% tab title="엔트리" %}
+{% tab title="수업차시" %}
 ##  🎮 드론게임 만들기
 
 ![](.gitbook/assets/test.gif)
